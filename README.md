@@ -16,6 +16,6 @@ Based on the analysis, the following insights were discovered:
 
 
 ## Dependencies
-The project utilized Postgres SQL for data analysis:
+The project utilized Postgres SQL for data analysis
 
 
